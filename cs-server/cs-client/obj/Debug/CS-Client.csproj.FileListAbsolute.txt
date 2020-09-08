@@ -1,0 +1,6 @@
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Client\bin\Debug\CS-Client.exe.config
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Client\bin\Debug\CS-Client.exe
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Client\bin\Debug\CS-Client.pdb
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Client\obj\Debug\CS-Client.csprojResolveAssemblyReference.cache
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Client\obj\Debug\CS-Client.exe
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Client\obj\Debug\CS-Client.pdb

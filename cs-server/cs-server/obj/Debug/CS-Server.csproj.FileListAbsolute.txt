@@ -1,0 +1,6 @@
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Server\bin\Debug\CS-Server.exe.config
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Server\obj\Debug\CS-Server.csprojResolveAssemblyReference.cache
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Server\bin\Debug\CS-Server.exe
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Server\bin\Debug\CS-Server.pdb
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Server\obj\Debug\CS-Server.exe
+M:\CE303\Assign1\Assignment1CS\CS-Server\CS-Server\obj\Debug\CS-Server.pdb
